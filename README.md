@@ -1,2 +1,2 @@
-# sokoban_clone
+# puzzle_game
 Run Window.java
