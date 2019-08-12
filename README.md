@@ -1,7 +1,14 @@
 # Puzzle game
 
-Run: javac Window.java
-And then: java Window.java
+Run:
+```
+javac Window.java
+```
+
+And then:
+```
+java Window.java
+```
 
 - You are the blue square.
 - Black squares are walls.
